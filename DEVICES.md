@@ -495,6 +495,7 @@
 - TMWF02 fan controller
 - Treatlife DS02-F fan switch
 - Treatlife DS03 fan with dimmable light
+- Tuya X7430 standing fan
 - Varin CFWI50 RGBCW ceiling fan
 - Varin VA-E003 and VA-002 ceiling fans with light
 - Vivohome AirBoost Louver Series register booster fan
